@@ -1,0 +1,7 @@
+# optional: keep state snapshots tracked or not
+# if you want to NOT commit snapshots, uncomment:
+# state/
+
+Thumbs.db
+desktop.ini
+*.tmp
