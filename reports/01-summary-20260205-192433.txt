@@ -1,0 +1,14 @@
+﻿PC Change Tracker
+Timestamp: 20260205-192433
+ScanRoot:  D:\VS Code
+ExcludedDirs: .git, node_modules, .next, dist, build, out, .venv, venv, __pycache__, .idea, .vs, .cache, target
+ExcludedExt:  .zip, .rar, .7z, .iso, .mp4, .mkv, .exe, .msi, .dll, .bin, .tmp, .log
+HashMaxMB:    10
+
+Counts:
+  Added:    0
+  Modified: 0
+  Deleted:  0
+  Renamed:  0
+
+Note: Rename detection is best-effort (fingerprint match).
