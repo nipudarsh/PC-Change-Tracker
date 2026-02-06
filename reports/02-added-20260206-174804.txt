@@ -1,0 +1,51 @@
+﻿Added files (49) - 20260206-174804
+
+Project\New folder\SENTINEL_V2_PHASE2\backend\pyproject.toml | 500 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\README.md | 1009 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\requirements-dev.txt | 17 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\scripts\build_backend.ps1 | 901 bytes | 2026-02-06T11:37:29.2898186Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\sentinel-backend.spec | 837 bytes | 2026-02-06T11:44:32.4232990Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\dependency_links.txt | 1 bytes | 2026-02-06T11:39:33.1673009Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\entry_points.txt | 53 bytes | 2026-02-06T11:39:33.1693067Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\PKG-INFO | 415 bytes | 2026-02-06T11:39:33.1653086Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\requires.txt | 133 bytes | 2026-02-06T11:39:33.1703065Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\SOURCES.txt | 717 bytes | 2026-02-06T11:39:33.2023090Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel.egg-info\top_level.txt | 9 bytes | 2026-02-06T11:39:33.1713018Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\__init__.py | 48 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\exchange.py | 855 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\filters.py | 649 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\indicators.py | 766 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\mathutils.py | 246 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\ohlcv.py | 759 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\regime.py | 713 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\report.py | 1009 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\risk.py | 895 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\core\setups.py | 2792 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\db.py | 356 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\models.py | 3178 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\security.py | 978 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\presets.py | 570 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\schemas.py | 849 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\service.py | 10426 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\static\app.js | 13519 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\static\pair.js | 4161 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\static\styles.css | 3601 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\templates\index.html | 9412 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\ui\templates\pair.html | 3270 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\src\sentinel\webapp.py | 13936 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\backend\tests\test_smoke.py | 40 bytes | 2026-02-04T08:11:50.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\Cargo.toml | 54 bytes | 2026-02-06T11:56:47.4533064Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\package.json | 334 bytes | 2026-02-06T12:04:16.2588274Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\package-lock.json | 7240 bytes | 2026-02-06T11:51:38.0568423Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\README.md | 901 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\src-tauri\build.rs | 37 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\src-tauri\Cargo.toml | 441 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\src-tauri\src\main.rs | 1803 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\src-tauri\tauri.conf.json | 599 bytes | 2026-02-04T08:17:46.0000000Z
+Project\New folder\SENTINEL_V2_PHASE2\desktop\tauri.conf.json | 588 bytes | 2026-02-06T11:57:39.4902093Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_104632.json | 117162 bytes | 2026-02-06T10:46:49.3854490Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_105156.json | 117446 bytes | 2026-02-06T10:52:15.0652657Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_105214.json | 116491 bytes | 2026-02-06T10:52:23.1732588Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_105340.json | 117118 bytes | 2026-02-06T10:54:09.8073839Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_105408.json | 118137 bytes | 2026-02-06T10:54:17.1771563Z
+Project\shona\.shona\snapshots\Nipun-PC_20260206_112010.json | 119870 bytes | 2026-02-06T11:20:20.1368950Z
